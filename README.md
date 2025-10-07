@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋, I'm Aanchal Pandey
 
-<!--
-**AanchalPandey16/AanchalPandey16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 **Business Analyst | Aspiring Data Scientist | Data Enthusiast**
 
-Here are some ideas to get you started:
+Currently working as a Business Analyst, I’m passionate about data and actively developing my skills in Data Science. My journey combines business insights with technical expertise in analytics, visualization, and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Machine Learning**
+- **Python**
+- **SQL**
+- **Power BI**
+- **Tableau**
+- **HTML & CSS**
+
+## 🌱 What I'm up to
+- Strengthening my Data Science skills
+- Creating data-driven dashboards & ML models
+- Exploring new tools and techniques in analytics
+- Always curious and eager to learn more about data!
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/aanchal-pandey-b7ba01256/)
+
+---
+
+*Go with the flow 🚀*
