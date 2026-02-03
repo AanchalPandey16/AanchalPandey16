@@ -1,26 +1,9 @@
-# Hi there 👋, I'm Aanchal Pandey
+AANCHAL PANDEY
 
-🔍 **Business Analyst | Aspiring Data Scientist | Data Enthusiast**
+I work with data to understand problems, design solutions, and support better decisions.
 
-Currently working as a Business Analyst, I’m passionate about data and actively developing my skills in Data Science. My journey combines business insights with technical expertise in analytics, visualization, and machine learning.
+My background spans analytics, machine learning, and business problem-solving. I focus on building practical, data-driven systems—from exploratory analysis and modeling to lightweight deployment—while keeping business context at the center of technical work.
 
-## 🛠️ Skills
-- **Machine Learning**
-- **Python**
-- **SQL**
-- **Power BI**
-- **Tableau**
-- **HTML & CSS**
+I am interested in learning systems, data products, and intelligent applications that scale beyond experiments and deliver real-world impact. I value clarity in thinking, correctness in execution, and continuous improvement in both skills and outcomes.
 
-## 🌱 What I'm up to
-- Strengthening my Data Science skills
-- Creating data-driven dashboards & ML models
-- Exploring new tools and techniques in analytics
-- Always curious and eager to learn more about data!
-
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/aanchal-pandey-b7ba01256/)
-
----
-
-*Go with the flow 🚀*
+Currently, I am deepening my expertise in data science, applied machine learning, and modern analytics workflows, while exploring emerging approaches in NLP and AI-powered systems.
